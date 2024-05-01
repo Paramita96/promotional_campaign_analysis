@@ -1,0 +1,51 @@
+store_id,city,,,,State,City,Count of store
+STTRV-0,Trivandrum,,,,Karnataka,Bengaluru,10
+STMDU-3,Madurai,,,,Tamil Nadu,Chennai,8
+STHYD-6,Hyderabad,,,,Tamil Nadu,Coimbatore,5
+STVSK-1,Visakhapatnam,,,,Telangana,Hyderabad,7
+STCBE-3,Coimbatore,,,,Tamil Nadu,Madurai,4
+STBLR-8,Bengaluru,,,,Karnataka,Mangalore,3
+STBLR-2,Bengaluru,,,,Karnataka,Mysuru,4
+STCHE-7,Chennai,,,,Kerala,Trivandrum,2
+STCBE-0,Coimbatore,,,,Andhra Pradesh,Vijayawada,2
+STVSK-0,Visakhapatnam,,,,Andhra Pradesh,Visakhapatnam,5
+STCHE-5,Chennai,,,,,,
+STHYD-5,Hyderabad,,,,,,
+STMDU-1,Madurai,,,,,,
+STVJD-0,Vijayawada,,,,,,
+STMDU-2,Madurai,,,,,,
+STMYS-3,Mysuru,,,,,,
+STMLR-0,Mangalore,,,,,,
+STVSK-4,Visakhapatnam,,,,,,
+STCHE-3,Chennai,,,,,,
+STCHE-6,Chennai,,,,,,
+STBLR-6,Bengaluru,,,,,,
+STCBE-2,Coimbatore,,,,,,
+STMLR-1,Mangalore,,,,,,
+STCHE-2,Chennai,,,,,,
+STCHE-1,Chennai,,,,,,
+STBLR-5,Bengaluru,,,,,,
+STMYS-0,Mysuru,,,,,,
+STMDU-0,Madurai,,,,,,
+STBLR-9,Bengaluru,,,,,,
+STVSK-2,Visakhapatnam,,,,,,
+STTRV-1,Trivandrum,,,,,,
+STBLR-3,Bengaluru,,,,,,
+STHYD-0,Hyderabad,,,,,,
+STBLR-4,Bengaluru,,,,,,
+STHYD-2,Hyderabad,,,,,,
+STBLR-7,Bengaluru,,,,,,
+STVSK-3,Visakhapatnam,,,,,,
+STCBE-1,Coimbatore,,,,,,
+STHYD-1,Hyderabad,,,,,,
+STMYS-2,Mysuru,,,,,,
+STMLR-2,Mangalore,,,,,,
+STBLR-0,Bengaluru,,,,,,
+STHYD-4,Hyderabad,,,,,,
+STCHE-0,Chennai,,,,,,
+STBLR-1,Bengaluru,,,,,,
+STVJD-1,Vijayawada,,,,,,
+STHYD-3,Hyderabad,,,,,,
+STCHE-4,Chennai,,,,,,
+STCBE-4,Coimbatore,,,,,,
+STMYS-1,Mysuru,,,,,,
